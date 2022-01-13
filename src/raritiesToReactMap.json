@@ -3,421 +3,322 @@
         "attribute": "Background",
         "items": [
             {
-                "name": "Cyan",
-                "stock": 401,
-                "total": 10000,
-                "percentage": 4.01,
-                "rarity": "Epic",
-                "color": "#a335ee",
-                "path": "assets/0-background/1-cyan.png"
+                "name": "Space",
+                "stock": 126,
+                "total": 1154,
+                "percentage": 10.9242,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/0-background/10-space.png"
+            },
+            {
+                "name": "Clouds",
+                "stock": 173,
+                "total": 1154,
+                "percentage": 14.9991,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/0-background/15-clouds.png"
+            },
+            {
+                "name": "Galactic stars",
+                "stock": 185,
+                "total": 1154,
+                "percentage": 16.0395,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/0-background/15-galactic_stars.png"
+            },
+            {
+                "name": "Pink",
+                "stock": 218,
+                "total": 1154,
+                "percentage": 18.9006,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-background/20-pink.png"
+            },
+            {
+                "name": "Teal",
+                "stock": 215,
+                "total": 1154,
+                "percentage": 18.6405,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-background/20-teal.png"
             },
             {
                 "name": "Yellow",
-                "stock": 832,
-                "total": 10000,
-                "percentage": 8.32,
-                "rarity": "Rare",
-                "color": "#0070dd",
-                "path": "assets/0-background/3-yellow.png"
-            },
-            {
-                "name": "Green",
-                "stock": 1464,
-                "total": 10000,
-                "percentage": 14.64,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/0-background/7-green.png"
-            },
-            {
-                "name": "Purple",
-                "stock": 1879,
-                "total": 10000,
-                "percentage": 18.79,
+                "stock": 237,
+                "total": 1154,
+                "percentage": 20.5479,
                 "rarity": "Common",
                 "color": "#a0a0a0",
-                "path": "assets/0-background/11-purple.png"
-            },
-            {
-                "name": "Orange",
-                "stock": 5424,
-                "total": 10000,
-                "percentage": 54.24,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/0-background/78-orange.png"
+                "path": "assets/0-background/20-yellow.png"
             }
         ]
     },
     {
-        "attribute": "Border color",
+        "attribute": "Orangutan",
         "items": [
             {
-                "name": "Orange border",
-                "stock": 357,
-                "total": 10000,
-                "percentage": 3.57,
-                "rarity": "Epic",
-                "color": "#a335ee",
-                "path": "assets/1-Border_color/1-orange_border.png"
-            },
-            {
-                "name": "Green border",
-                "stock": 858,
-                "total": 10000,
-                "percentage": 8.58,
+                "name": "Iron man",
+                "stock": 79,
+                "total": 1154,
+                "percentage": 6.8493,
                 "rarity": "Rare",
                 "color": "#0070dd",
-                "path": "assets/1-Border_color/3-green_border.png"
+                "path": "assets/1-orangutan/5-iron_man.png"
             },
             {
-                "name": "Purple border",
-                "stock": 1464,
-                "total": 10000,
-                "percentage": 14.64,
+                "name": "Steampunk",
+                "stock": 177,
+                "total": 1154,
+                "percentage": 15.3459,
                 "rarity": "Uncommon",
                 "color": "#6bca06",
-                "path": "assets/1-Border_color/7-purple_border.png"
+                "path": "assets/1-orangutan/15-steampunk.png"
             },
             {
-                "name": "Yellow border",
-                "stock": 1853,
-                "total": 10000,
-                "percentage": 18.53,
+                "name": "Prisoner",
+                "stock": 222,
+                "total": 1154,
+                "percentage": 19.2474,
                 "rarity": "Common",
                 "color": "#a0a0a0",
-                "path": "assets/1-Border_color/11-yellow_border.png"
+                "path": "assets/1-orangutan/20-prisoner.png"
             },
             {
-                "name": "Cyan border",
-                "stock": 5468,
-                "total": 10000,
-                "percentage": 54.68,
+                "name": "Spacea suit",
+                "stock": 231,
+                "total": 1154,
+                "percentage": 20.0277,
                 "rarity": "Common",
                 "color": "#a0a0a0",
-                "path": "assets/1-Border_color/78-cyan_border.png"
+                "path": "assets/1-orangutan/20-spacea_suit.png"
+            },
+            {
+                "name": "Basic",
+                "stock": 445,
+                "total": 1154,
+                "percentage": 38.5815,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-orangutan/40-basic.png"
             }
         ]
     },
     {
-        "attribute": "Border dots",
+        "attribute": "Face",
         "items": [
             {
-                "name": "Pink dots",
-                "stock": 283,
-                "total": 10000,
-                "percentage": 2.83,
-                "rarity": "Legendary",
-                "color": "#ff8000",
-                "path": "assets/2-border_dots/1-pink_dots.png"
-            },
-            {
-                "name": "Dark purple dots",
-                "stock": 432,
-                "total": 10000,
-                "percentage": 4.32,
-                "rarity": "Epic",
-                "color": "#a335ee",
-                "path": "assets/2-border_dots/2-dark_purple_dots.png"
-            },
-            {
-                "name": "Dark green dots",
-                "stock": 603,
-                "total": 10000,
-                "percentage": 6.03,
-                "rarity": "Epic",
-                "color": "#a335ee",
-                "path": "assets/2-border_dots/3-dark_green_dots.png"
-            },
-            {
-                "name": "Dark blue dots",
-                "stock": 953,
-                "total": 10000,
-                "percentage": 9.53,
-                "rarity": "Rare",
-                "color": "#0070dd",
-                "path": "assets/2-border_dots/7-dark_blue_dots.png"
-            },
-            {
-                "name": "Black dots",
-                "stock": 1047,
-                "total": 10000,
-                "percentage": 10.47,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/2-border_dots/8-black_dots.png"
-            },
-            {
-                "name": "Magenta dots",
-                "stock": 1200,
-                "total": 10000,
-                "percentage": 12.0,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/2-border_dots/10-magenta_dots.png"
-            },
-            {
-                "name": "Brown dots",
-                "stock": 1449,
-                "total": 10000,
-                "percentage": 14.49,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/2-border_dots/14-brown_dots.png"
-            },
-            {
-                "name": "Emerald dots",
-                "stock": 1783,
-                "total": 10000,
-                "percentage": 17.83,
+                "name": "Face",
+                "stock": 1154,
+                "total": 1154,
+                "percentage": 100.0518,
                 "rarity": "Common",
                 "color": "#a0a0a0",
-                "path": "assets/2-border_dots/20-emerald_dots.png"
-            },
-            {
-                "name": "Nothing",
-                "stock": 2250,
-                "total": 10000,
-                "percentage": 22.5,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/2-border_dots/35-nothing.png"
+                "path": "assets/2-face/100-face.png"
             }
         ]
     },
     {
-        "attribute": "Example text",
+        "attribute": "Beard",
         "items": [
             {
-                "name": "Example 1",
-                "stock": 426,
-                "total": 10000,
-                "percentage": 4.26,
-                "rarity": "Epic",
-                "color": "#a335ee",
-                "path": "assets/3-example_text/1-example_1.png"
-            },
-            {
-                "name": "Example 2",
-                "stock": 684,
-                "total": 10000,
-                "percentage": 6.84,
-                "rarity": "Rare",
-                "color": "#0070dd",
-                "path": "assets/3-example_text/2-example_2.png"
-            },
-            {
-                "name": "Example 3",
-                "stock": 894,
-                "total": 10000,
-                "percentage": 8.94,
-                "rarity": "Rare",
-                "color": "#0070dd",
-                "path": "assets/3-example_text/3-example_3.png"
-            },
-            {
-                "name": "Example 4",
-                "stock": 1076,
-                "total": 10000,
-                "percentage": 10.76,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/3-example_text/4-example_4.png"
-            },
-            {
-                "name": "Example 5",
-                "stock": 1225,
-                "total": 10000,
-                "percentage": 12.25,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/3-example_text/5-example_5.png"
-            },
-            {
-                "name": "Example 6",
-                "stock": 5695,
-                "total": 10000,
-                "percentage": 56.95,
+                "name": "Base",
+                "stock": 577,
+                "total": 1154,
+                "percentage": 50.0259,
                 "rarity": "Common",
                 "color": "#a0a0a0",
-                "path": "assets/3-example_text/85-example_6.png"
+                "path": "assets/3-beard/50-base-.png"
+            },
+            {
+                "name": "Long beard",
+                "stock": 577,
+                "total": 1154,
+                "percentage": 50.0259,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/3-beard/50-long_beard.png"
             }
         ]
     },
     {
-        "attribute": "Simple draw",
+        "attribute": "Eyes",
         "items": [
             {
-                "name": "Crown",
-                "stock": 340,
-                "total": 10000,
-                "percentage": 3.4,
-                "rarity": "Epic",
-                "color": "#a335ee",
-                "path": "assets/4-simple_draw/1-crown.png"
-            },
-            {
-                "name": "Swan",
-                "stock": 531,
-                "total": 10000,
-                "percentage": 5.31,
-                "rarity": "Epic",
-                "color": "#a335ee",
-                "path": "assets/4-simple_draw/2-swan.png"
-            },
-            {
-                "name": "Paw",
-                "stock": 995,
-                "total": 10000,
-                "percentage": 9.95,
+                "name": "Rainbow eyes",
+                "stock": 76,
+                "total": 1154,
+                "percentage": 6.5892,
                 "rarity": "Rare",
                 "color": "#0070dd",
-                "path": "assets/4-simple_draw/5-paw.png"
+                "path": "assets/4-eyes/5-rainbow_eyes.png"
             },
             {
-                "name": "Balloon",
-                "stock": 1189,
-                "total": 10000,
-                "percentage": 11.89,
+                "name": "Vr",
+                "stock": 155,
+                "total": 1154,
+                "percentage": 13.4385,
                 "rarity": "Uncommon",
                 "color": "#6bca06",
-                "path": "assets/4-simple_draw/7-balloon.png"
+                "path": "assets/4-eyes/15-VR.png"
             },
             {
-                "name": "Flower",
-                "stock": 1436,
-                "total": 10000,
-                "percentage": 14.36,
+                "name": "Laser eyes",
+                "stock": 156,
+                "total": 1154,
+                "percentage": 13.5252,
                 "rarity": "Uncommon",
                 "color": "#6bca06",
-                "path": "assets/4-simple_draw/10-flower.png"
+                "path": "assets/4-eyes/15-laser_eyes.png"
             },
             {
-                "name": "Fish",
-                "stock": 1756,
-                "total": 10000,
-                "percentage": 17.56,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/4-simple_draw/14-fish.png"
+                "name": "Xmen glasses",
+                "stock": 188,
+                "total": 1154,
+                "percentage": 16.2996,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/4-eyes/15-xmen_glasses.png"
             },
             {
-                "name": "Nothing",
-                "stock": 3753,
-                "total": 10000,
-                "percentage": 37.53,
+                "name": "Dead eyes",
+                "stock": 288,
+                "total": 1154,
+                "percentage": 24.9696,
                 "rarity": "Common",
                 "color": "#a0a0a0",
-                "path": "assets/4-simple_draw/61-Nothing.png"
+                "path": "assets/4-eyes/25-dead_eyes.png"
+            },
+            {
+                "name": "Red eyes",
+                "stock": 291,
+                "total": 1154,
+                "percentage": 25.2297,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/4-eyes/25-red_eyes.png"
             }
         ]
     },
     {
-        "attribute": "Watermark",
+        "attribute": "Head",
         "items": [
             {
-                "name": "Top middle",
-                "stock": 329,
-                "total": 10000,
-                "percentage": 3.29,
+                "name": "Spacea suit",
+                "stock": 50,
+                "total": 1154,
+                "percentage": 4.335,
                 "rarity": "Epic",
                 "color": "#a335ee",
-                "path": "assets/5-watermark/1-top_middle.png"
+                "path": "assets/5-head/5-spacea_suit.png"
             },
             {
-                "name": "Middle left",
-                "stock": 695,
-                "total": 10000,
-                "percentage": 6.95,
+                "name": "Laser helmet",
+                "stock": 111,
+                "total": 1154,
+                "percentage": 9.6237,
                 "rarity": "Rare",
                 "color": "#0070dd",
-                "path": "assets/5-watermark/3-middle_left.png"
+                "path": "assets/5-head/10-laser_helmet.png"
             },
             {
-                "name": "Down left",
-                "stock": 1124,
-                "total": 10000,
-                "percentage": 11.24,
+                "name": "Cap",
+                "stock": 164,
+                "total": 1154,
+                "percentage": 14.2188,
                 "rarity": "Uncommon",
                 "color": "#6bca06",
-                "path": "assets/5-watermark/6-down_left.png"
+                "path": "assets/5-head/15-cap.png"
             },
             {
-                "name": "Middle right",
-                "stock": 1675,
-                "total": 10000,
-                "percentage": 16.75,
+                "name": "Robot beast",
+                "stock": 197,
+                "total": 1154,
+                "percentage": 17.0799,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-head/15-robot_beast.png"
+            },
+            {
+                "name": "Spacex helmet",
+                "stock": 164,
+                "total": 1154,
+                "percentage": 14.2188,
                 "rarity": "Uncommon",
                 "color": "#6bca06",
-                "path": "assets/5-watermark/12-middle_right.png"
+                "path": "assets/5-head/15-spacex_helmet.png"
             },
             {
-                "name": "Top right",
-                "stock": 2726,
-                "total": 10000,
-                "percentage": 27.26,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/5-watermark/30-top_right.png"
+                "name": "Unicorn",
+                "stock": 180,
+                "total": 1154,
+                "percentage": 15.606,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/5-head/15-unicorn.png"
             },
             {
-                "name": "Down middle",
-                "stock": 3451,
-                "total": 10000,
-                "percentage": 34.51,
+                "name": "Base",
+                "stock": 288,
+                "total": 1154,
+                "percentage": 24.9696,
                 "rarity": "Common",
                 "color": "#a0a0a0",
-                "path": "assets/5-watermark/48-down_middle.png"
+                "path": "assets/5-head/30-base.png"
             }
         ]
     },
     {
-        "attribute": "Border mark",
+        "attribute": "Mouth",
         "items": [
             {
-                "name": "1 left side",
-                "stock": 365,
-                "total": 10000,
-                "percentage": 3.65,
+                "name": "Galactic mask",
+                "stock": 69,
+                "total": 1154,
+                "percentage": 5.9823,
                 "rarity": "Epic",
                 "color": "#a335ee",
-                "path": "assets/6-border_mark/1-1_left_side.png"
+                "path": "assets/6-mouth/5-galactic_mask.png"
             },
             {
-                "name": "2 right side",
-                "stock": 815,
-                "total": 10000,
-                "percentage": 8.15,
-                "rarity": "Rare",
-                "color": "#0070dd",
-                "path": "assets/6-border_mark/3-2_right_side.png"
-            },
-            {
-                "name": "1 both sides",
-                "stock": 1528,
-                "total": 10000,
-                "percentage": 15.28,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/6-border_mark/8-1_both_sides.png"
-            },
-            {
-                "name": "2 both sides",
-                "stock": 2103,
-                "total": 10000,
-                "percentage": 21.03,
+                "name": "Banana",
+                "stock": 230,
+                "total": 1154,
+                "percentage": 19.941,
                 "rarity": "Common",
                 "color": "#a0a0a0",
-                "path": "assets/6-border_mark/14-2_both_sides.png"
+                "path": "assets/6-mouth/20-banana.png"
             },
             {
-                "name": "Nothing",
-                "stock": 5189,
-                "total": 10000,
-                "percentage": 51.89,
+                "name": "Pipe",
+                "stock": 228,
+                "total": 1154,
+                "percentage": 19.7676,
                 "rarity": "Common",
                 "color": "#a0a0a0",
-                "path": "assets/6-border_mark/74-nothing.png"
+                "path": "assets/6-mouth/20-pipe.png"
+            },
+            {
+                "name": "Basic",
+                "stock": 316,
+                "total": 1154,
+                "percentage": 27.3972,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-mouth/30-basic.png"
+            },
+            {
+                "name": "Golden grills",
+                "stock": 311,
+                "total": 1154,
+                "percentage": 26.9637,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-mouth/30-golden_grills.png"
             }
         ]
     }
