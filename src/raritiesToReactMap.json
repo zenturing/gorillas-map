@@ -1,302 +1,528 @@
 [
-    {
-        "attribute": "Background",
-        "items": [
-            {
-                "name": "Space",
-                "stock": 142,
-                "total": 1154,
-                "percentage": 12.3114,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/0-background/10-space.png"
-            },
-            {
-                "name": "Clouds",
-                "stock": 183,
-                "total": 1154,
-                "percentage": 15.8661,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/0-background/15-clouds.png"
-            },
-            {
-                "name": "Galactic stars",
-                "stock": 173,
-                "total": 1154,
-                "percentage": 14.9991,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/0-background/15-galactic_stars.png"
-            },
-            {
-                "name": "Pink",
-                "stock": 236,
-                "total": 1154,
-                "percentage": 20.4612,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/0-background/20-pink.png"
-            },
-            {
-                "name": "Teal",
-                "stock": 204,
-                "total": 1154,
-                "percentage": 17.6868,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/0-background/20-teal.png"
-            },
-            {
-                "name": "Yellow",
-                "stock": 216,
-                "total": 1154,
-                "percentage": 18.7272,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/0-background/20-yellow.png"
-            }
-        ]
-    },
-    {
-        "attribute": "Body",
-        "items": [
-            {
-                "name": "Hulk",
-                "stock": 150,
-                "total": 1154,
-                "percentage": 13.005,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/1-body/13-hulk.png"
-            },
-            {
-                "name": "Spacex suit",
-                "stock": 198,
-                "total": 1154,
-                "percentage": 17.1666,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/1-body/17-spacex_suit.png"
-            },
-            {
-                "name": "Skeleton",
-                "stock": 250,
-                "total": 1154,
-                "percentage": 21.675,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/1-body/20-skeleton.png"
-            },
-            {
-                "name": "Basic top",
-                "stock": 261,
-                "total": 1154,
-                "percentage": 22.6287,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/1-body/25-basic_top.png"
-            },
-            {
-                "name": "Prisoner",
-                "stock": 295,
-                "total": 1154,
-                "percentage": 25.5765,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/1-body/25-prisoner.png"
-            }
-        ]
-    },
-    {
-        "attribute": "Genus",
-        "items": [
-            {
-                "name": "Gorilla",
-                "stock": 1154,
-                "total": 1154,
-                "percentage": 100.0518,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/2-genus/100-gorilla.png"
-            }
-        ]
-    },
-    {
-        "attribute": "Eyes",
-        "items": [
-            {
-                "name": "Laser eyes",
-                "stock": 87,
-                "total": 1154,
-                "percentage": 7.5429,
-                "rarity": "Rare",
-                "color": "#0070dd",
-                "path": "assets/3-eyes/7-laser_eyes.png"
-            },
-            {
-                "name": "Vr oculus rift",
-                "stock": 181,
-                "total": 1154,
-                "percentage": 15.6927,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/3-eyes/15-vr_oculus_rift.png"
-            },
-            {
-                "name": "Xmen glasses",
-                "stock": 158,
-                "total": 1154,
-                "percentage": 13.6986,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/3-eyes/15-xmen_glasses.png"
-            },
-            {
-                "name": "Scar face",
-                "stock": 219,
-                "total": 1154,
-                "percentage": 18.9873,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/3-eyes/17-scar_face.png"
-            },
-            {
-                "name": "Basic eyes",
-                "stock": 246,
-                "total": 1154,
-                "percentage": 21.3282,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/3-eyes/23-basic_eyes.png"
-            },
-            {
-                "name": "Evil eyes",
-                "stock": 263,
-                "total": 1154,
-                "percentage": 22.8021,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/3-eyes/23-evil_eyes.png"
-            }
-        ]
-    },
-    {
-        "attribute": "Head",
-        "items": [
-            {
-                "name": "Laser helmet",
-                "stock": 115,
-                "total": 1154,
-                "percentage": 9.9705,
-                "rarity": "Rare",
-                "color": "#0070dd",
-                "path": "assets/4-head/9-laser_helmet.png"
-            },
-            {
-                "name": "Space apes helmet",
-                "stock": 173,
-                "total": 1154,
-                "percentage": 14.9991,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/4-head/12-space_apes_helmet.png"
-            },
-            {
-                "name": "Space beast",
-                "stock": 156,
-                "total": 1154,
-                "percentage": 13.5252,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/4-head/12-space_beast.png"
-            },
-            {
-                "name": "Naruto band",
-                "stock": 241,
-                "total": 1154,
-                "percentage": 20.8947,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/4-head/16-naruto_band.png"
-            },
-            {
-                "name": "Army hat",
-                "stock": 247,
-                "total": 1154,
-                "percentage": 21.4149,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/4-head/18-army_hat.png"
-            },
-            {
-                "name": "Fedora",
-                "stock": 222,
-                "total": 1154,
-                "percentage": 19.2474,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/4-head/18-fedora.png"
-            }
-        ]
-    },
-    {
-        "attribute": "Mouth",
-        "items": [
-            {
-                "name": "Fire breathing",
-                "stock": 130,
-                "total": 1154,
-                "percentage": 11.271,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/5-mouth/11-fire_breathing.png"
-            },
-            {
-                "name": "Banana",
-                "stock": 147,
-                "total": 1154,
-                "percentage": 12.7449,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/5-mouth/12-banana.png"
-            },
-            {
-                "name": "Oni mask",
-                "stock": 173,
-                "total": 1154,
-                "percentage": 14.9991,
-                "rarity": "Uncommon",
-                "color": "#6bca06",
-                "path": "assets/5-mouth/15-oni_mask.png"
-            },
-            {
-                "name": "Pipe",
-                "stock": 200,
-                "total": 1154,
-                "percentage": 17.34,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/5-mouth/17-pipe.png"
-            },
-            {
-                "name": "Blood teeth",
-                "stock": 240,
-                "total": 1154,
-                "percentage": 20.808,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/5-mouth/22-blood_teeth.png"
-            },
-            {
-                "name": "Basic",
-                "stock": 264,
-                "total": 1154,
-                "percentage": 22.8888,
-                "rarity": "Common",
-                "color": "#a0a0a0",
-                "path": "assets/5-mouth/23-basic.png"
-            }
-        ]
-    }
+  {
+    "attribute": "Beard",
+    "items": [
+      {
+        "name": "Long beard",
+        "stock": 183,
+        "total": 2308,
+        "percentage": 7.929
+      },
+      {
+        "name": "Orangutang king",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Orangutan albino",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Simple beard",
+        "stock": 968,
+        "total": 2308,
+        "percentage": 41.9411
+      },
+      {
+        "name": "orangutang mutant",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      }
+    ]
+  },
+  {
+    "attribute": "Head",
+    "items": [
+      {
+        "name": "Without mask",
+        "stock": 28,
+        "total": 2308,
+        "percentage": 1.2132
+      },
+      {
+        "name": "Orangutan albino",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Gorilla albino",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Unicorn",
+        "stock": 121,
+        "total": 2308,
+        "percentage": 5.2427
+      },
+      {
+        "name": "Spacea helmet",
+        "stock": 400,
+        "total": 2308,
+        "percentage": 17.3311
+      },
+      {
+        "name": "Fedora",
+        "stock": 180,
+        "total": 2308,
+        "percentage": 7.799
+      },
+      {
+        "name": "Laser helmet",
+        "stock": 405,
+        "total": 2308,
+        "percentage": 17.5477
+      },
+      {
+        "name": "Space beast",
+        "stock": 200,
+        "total": 2308,
+        "percentage": 8.6656
+      },
+      {
+        "name": "orangutang mutant",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Gorilla mutant",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Horn crown",
+        "stock": 51,
+        "total": 2308,
+        "percentage": 2.2098
+      },
+      {
+        "name": "Orangutang king",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Cap",
+        "stock": 291,
+        "total": 2308,
+        "percentage": 12.6084
+      },
+      {
+        "name": "Army hat",
+        "stock": 186,
+        "total": 2308,
+        "percentage": 8.059
+      },
+      {
+        "name": "Ninja band",
+        "stock": 211,
+        "total": 2308,
+        "percentage": 9.1422
+      },
+      {
+        "name": "Robot beast",
+        "stock": 155,
+        "total": 2308,
+        "percentage": 6.7158
+      },
+      {
+        "name": "Gorilla king",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      }
+    ]
+  },
+  {
+    "attribute": "Eyes",
+    "items": [
+      {
+        "name": "Scar face",
+        "stock": 176,
+        "total": 2308,
+        "percentage": 7.6257
+      },
+      {
+        "name": "Basic eyes",
+        "stock": 592,
+        "total": 2308,
+        "percentage": 25.65
+      },
+      {
+        "name": "Orangutan albino",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Vr glasses",
+        "stock": 358,
+        "total": 2308,
+        "percentage": 15.5113
+      },
+      {
+        "name": "Laser eyes",
+        "stock": 214,
+        "total": 2308,
+        "percentage": 9.2721
+      },
+      {
+        "name": "Gorilla albino",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Evil eyes",
+        "stock": 249,
+        "total": 2308,
+        "percentage": 10.7886
+      },
+      {
+        "name": "Dead eyes",
+        "stock": 241,
+        "total": 2308,
+        "percentage": 10.442
+      },
+      {
+        "name": "Rainbow eyes",
+        "stock": 89,
+        "total": 2308,
+        "percentage": 3.8562
+      },
+      {
+        "name": "orangutang mutant",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Gorilla mutant",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Orangutang king",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Cyclop glasses",
+        "stock": 383,
+        "total": 2308,
+        "percentage": 16.5945
+      },
+      {
+        "name": "Gorilla king",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      }
+    ]
+  },
+  {
+    "attribute": "Mod",
+    "items": [
+      {
+        "name": "Metalman mask",
+        "stock": 54,
+        "total": 2308,
+        "percentage": 2.3397
+      },
+      {
+        "name": "Halk",
+        "stock": 77,
+        "total": 2308,
+        "percentage": 3.3363
+      }
+    ]
+  },
+  {
+    "attribute": "Background",
+    "items": [
+      {
+        "name": "Space",
+        "stock": 255,
+        "total": 2308,
+        "percentage": 11.0486
+      },
+      {
+        "name": "Orangutang king",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Orangutan albino",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Pink",
+        "stock": 440,
+        "total": 2308,
+        "percentage": 19.0642
+      },
+      {
+        "name": "Clouds",
+        "stock": 352,
+        "total": 2308,
+        "percentage": 15.2513
+      },
+      {
+        "name": "Gorilla albino",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Yellow",
+        "stock": 462,
+        "total": 2308,
+        "percentage": 20.0174
+      },
+      {
+        "name": "Gorilla king",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Teal",
+        "stock": 448,
+        "total": 2308,
+        "percentage": 19.4108
+      },
+      {
+        "name": "Galactic stars",
+        "stock": 345,
+        "total": 2308,
+        "percentage": 14.9481
+      },
+      {
+        "name": "orangutang mutant",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Gorilla mutant",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      }
+    ]
+  },
+  {
+    "attribute": "Genus",
+    "items": [
+      {
+        "name": "Orangutan",
+        "stock": 1154,
+        "total": 2308,
+        "percentage": 50.0
+      },
+      {
+        "name": "Gorilla",
+        "stock": 1154,
+        "total": 2308,
+        "percentage": 50.0
+      }
+    ]
+  },
+  {
+    "attribute": "Mouth",
+    "items": [
+      {
+        "name": "Golden grills",
+        "stock": 273,
+        "total": 2308,
+        "percentage": 11.8285
+      },
+      {
+        "name": "Basic",
+        "stock": 487,
+        "total": 2308,
+        "percentage": 21.1006
+      },
+      {
+        "name": "Orangutan albino",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Gorilla albino",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Pipe",
+        "stock": 423,
+        "total": 2308,
+        "percentage": 18.3276
+      },
+      {
+        "name": "Basic mouth",
+        "stock": 18,
+        "total": 2308,
+        "percentage": 0.7799
+      },
+      {
+        "name": "Banana",
+        "stock": 302,
+        "total": 2308,
+        "percentage": 13.085
+      },
+      {
+        "name": "Oni mask",
+        "stock": 186,
+        "total": 2308,
+        "percentage": 8.059
+      },
+      {
+        "name": "orangutang mutant",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Gorilla mutant",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Orangutang king",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Fire breathing",
+        "stock": 145,
+        "total": 2308,
+        "percentage": 6.2825
+      },
+      {
+        "name": "Gorilla king",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Galactic mask",
+        "stock": 183,
+        "total": 2308,
+        "percentage": 7.929
+      },
+      {
+        "name": "Blood teeth",
+        "stock": 231,
+        "total": 2308,
+        "percentage": 10.0087
+      }
+    ]
+  },
+  {
+    "attribute": "Body",
+    "items": [
+      {
+        "name": "Prisoner",
+        "stock": 550,
+        "total": 2308,
+        "percentage": 23.8302
+      },
+      {
+        "name": "Orangutan albino",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Gorilla albino",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Metal man",
+        "stock": 133,
+        "total": 2308,
+        "percentage": 5.7626
+      },
+      {
+        "name": "Spacea suit",
+        "stock": 437,
+        "total": 2308,
+        "percentage": 18.9342
+      },
+      {
+        "name": "orangutang mutant",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Gorilla mutant",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Basic top",
+        "stock": 566,
+        "total": 2308,
+        "percentage": 24.5234
+      },
+      {
+        "name": "Orangutang king",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      },
+      {
+        "name": "Mage robe",
+        "stock": 74,
+        "total": 2308,
+        "percentage": 3.2063
+      },
+      {
+        "name": "Skeleton",
+        "stock": 222,
+        "total": 2308,
+        "percentage": 9.6188
+      },
+      {
+        "name": "Steampunk",
+        "stock": 208,
+        "total": 2308,
+        "percentage": 9.0122
+      },
+      {
+        "name": "Halk",
+        "stock": 112,
+        "total": 2308,
+        "percentage": 4.8527
+      },
+      {
+        "name": "Gorilla king",
+        "stock": 1,
+        "total": 2308,
+        "percentage": 0.0434
+      }
+    ]
+  }
 ]
