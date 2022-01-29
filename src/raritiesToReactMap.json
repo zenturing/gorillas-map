@@ -537,15 +537,6 @@
         "path": "assets/orangutan/input-orangutan/mouth/pipe.png"
       },
       {
-        "name": "Basic mouth",
-        "stock": 18,
-        "total": 2308,
-        "percentage": 0.7799,
-        "rarity": "Legendary",
-        "color": "#ff8000",
-        "path": "assets/gorilla/input_gorilla/mouth/basic.png"
-      },
-      {
         "name": "Banana",
         "stock": 302,
         "total": 2308,
