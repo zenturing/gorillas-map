@@ -53,15 +53,6 @@
     "attribute": "Head",
     "items": [
       {
-        "name": "Without mask",
-        "stock": 28,
-        "total": 2308,
-        "percentage": 1.2132,
-        "rarity": "Legendary",
-        "color": "#ff8000",
-        "path": "assets/orangutan/input-metalman/head/without mask.png"
-      },
-      {
         "name": "Orangutan albino",
         "stock": 1,
         "total": 2308,
@@ -357,7 +348,7 @@
         "percentage": 3.3363,
         "rarity": "Legendary",
         "color": "#ff8000",
-        "path": "assets/gorilla/input-halk/mod/Halk.png"
+        "path": "assets/gorilla/input-halk/genus/Gorilla.png"
       }
     ]
   },
